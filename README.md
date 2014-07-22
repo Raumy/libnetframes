@@ -3,6 +3,8 @@ Libnetframes
 
 Classes to handle frames from a pcap file in different ways.
 
+Using sorted_list (Copyright 2009-2013 Yorba Foundation)
+
 Capture
 -------
 Global class which store hosts, connections and frames.
